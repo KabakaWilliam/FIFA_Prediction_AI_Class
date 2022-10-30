@@ -1,2 +1,9 @@
 .venv
 .DS_Store
+
+
+# files
+altWay.ipynb
+fifaPredictor.ipynb
+parse.py
+value.ipynb
